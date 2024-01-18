@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @driss
-- 🌱 I’m currently learning web developpement 
+- 🌱 I’m currently learning web developpement
+
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,java,linux&theme=light)](https://skillicons.dev)
 
 
 <!---
