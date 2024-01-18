@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @driss
 - 🌱 I’m currently learning web developpement
 
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,java,linux)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vue,spring,java,linux)](https://skillicons.dev)
 
 
 <!---
